@@ -3,6 +3,7 @@ I'm an undergraduate computer science student at the University of North Carolin
 
 ## Currently Working On
 * [Kiln](https://github.com/Caleb-Kronstad/Kiln)
+* [Ember](https://github.com/Caleb-Kronstad/Ember)
 * Unstable Arena
 
 ## Long Term Endeavors:
