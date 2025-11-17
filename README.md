@@ -2,7 +2,7 @@
 Graphics programmer. I like lana del rey and souls games
 
 ## Currently Working On
-* [Kiln](https://github.com/Caleb-Kronstad/Kiln)
+* [Kinetic](https://github.com/Caleb-Kronstad/Kinetic)
 * [Ember](https://github.com/Caleb-Kronstad/Ember)
 * Unstable Arena
 
@@ -10,4 +10,5 @@ Graphics programmer. I like lana del rey and souls games
 * [Bonfire](https://github.com/Caleb-Kronstad/Bonfire)
 
 ## Recently Competed
+* [Kiln](https://github.com/Caleb-Kronstad/Kiln)
 * [Portfolio Website](https://github.com/Caleb-Kronstad/calebkronstad.com)
