@@ -2,6 +2,7 @@
 Graphics programmer. I like lana del rey and souls games
 
 ## Currently Working On
+* [Square](https://github.com/odesai840/Square)
 * [EmberC](https://github.com/Caleb-Kronstad/EmberC)
 * Unstable Arena
 
