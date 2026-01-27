@@ -1,5 +1,5 @@
 ## About Me
-Graphics programmer. I like lana del rey and souls games
+Graphics programmer
 
 ## Currently Working On
 * [Cube](https://github.com/Caleb-Kronstad/Cube)
