@@ -8,7 +8,6 @@ Graphics programmer
 
 ## Long Term Endeavors:
 * [Bonfire](https://github.com/Caleb-Kronstad/Bonfire)
-* [Kinetic](https://github.com/Caleb-Kronstad/Kinetic)
 
 ## Recently Competed
 * [Square](https://github.com/odesai840/Square)
