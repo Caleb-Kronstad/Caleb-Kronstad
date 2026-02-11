@@ -3,13 +3,12 @@ Graphics programmer
 
 ## Currently Working On
 * IRL (Social app)
-* Unstable Arena
+* [Cube](https://github.com/Caleb-Kronstad/Cube)
 
 ## Long Term Endeavors:
 * [Bonfire](https://github.com/Caleb-Kronstad/Bonfire)
-* [Cube](https://github.com/Caleb-Kronstad/Cube)
 
-## Recently Competed
+## Recently Completed
 * [Square](https://github.com/odesai840/Square)
 * [Kiln](https://github.com/Caleb-Kronstad/Kiln)
 * [Ember](https://github.com/Caleb-Kronstad/Ember)
