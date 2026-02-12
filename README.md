@@ -3,6 +3,7 @@ Graphics programmer
 
 ## Currently Working On
 * [RustRT](https://github.com/Caleb-Kronstad/RustRT)
+* [EmberC](https://github.com/Caleb-Kronstad/EmberC)
 * [Cube](https://github.com/Caleb-Kronstad/Cube)
 
 ## Long Term Endeavors:
@@ -12,5 +13,4 @@ Graphics programmer
 * [Square](https://github.com/odesai840/Square)
 * [Kiln](https://github.com/Caleb-Kronstad/Kiln)
 * [Ember](https://github.com/Caleb-Kronstad/Ember)
-* [EmberC](https://github.com/Caleb-Kronstad/EmberC)
 * [Portfolio Website](https://github.com/Caleb-Kronstad/calebkronstad.com)
