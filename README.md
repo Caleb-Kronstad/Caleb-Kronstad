@@ -4,7 +4,6 @@ Graphics programmer
 ## Currently Working On
 * [RustRT](https://github.com/Caleb-Kronstad/RustRT)
 * [EmberC](https://github.com/Caleb-Kronstad/EmberC)
-* [Cube](https://github.com/Caleb-Kronstad/Cube)
 
 ## Long Term Endeavors:
 * [Bonfire](https://github.com/Caleb-Kronstad/Bonfire)
