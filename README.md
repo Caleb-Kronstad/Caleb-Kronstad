@@ -2,13 +2,11 @@
 Graphics programmer
 
 ## Currently Working On
-* [RustRT](https://github.com/Caleb-Kronstad/RustRT)
-* [EmberC](https://github.com/Caleb-Kronstad/EmberC)
-
-## Long Term Endeavors:
+* RTD Tech Apps and Services
 * [Bonfire](https://github.com/Caleb-Kronstad/Bonfire)
 
 ## Recently Completed
+* RTD Chat
 * [Square](https://github.com/RTD-Tech/Square)
 * [Kiln](https://github.com/Caleb-Kronstad/Kiln)
 * [Ember](https://github.com/Caleb-Kronstad/Ember)
