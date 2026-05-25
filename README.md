@@ -9,5 +9,6 @@ Graphics programmer
 * RTD Chat
 * [Square](https://github.com/RTD-Tech/Square)
 * [Kiln](https://github.com/Caleb-Kronstad/Kiln)
+* [EmberC](https://github.com/Caleb-Kronstad/EmberC)
 * [Ember](https://github.com/Caleb-Kronstad/Ember)
 * [Portfolio Website](https://github.com/Caleb-Kronstad/calebkronstad.com)
